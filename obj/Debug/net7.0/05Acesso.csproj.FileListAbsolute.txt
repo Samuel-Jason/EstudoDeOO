@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\05Acesso.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\05Acesso.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\05Acesso.AssemblyInfo.cs
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\05Acesso.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\bin\Debug\net7.0\05Acesso.exe
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\bin\Debug\net7.0\05Acesso.deps.json
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\bin\Debug\net7.0\05Acesso.runtimeconfig.json
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\bin\Debug\net7.0\05Acesso.dll
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\bin\Debug\net7.0\05Acesso.pdb
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\05Acesso.dll
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\refint\05Acesso.dll
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\05Acesso.pdb
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\05Acesso.genruntimeconfig.cache
+C:\Users\Jason\Desktop\OrientaçãoObjeto\05Encapsulameno\obj\Debug\net7.0\ref\05Acesso.dll
